@@ -29,14 +29,18 @@ I also wanted to see how my model would react to images that are not straightfor
 
 <img width="506" alt="image" src="https://github.com/jasonsjafrudin/Dog-Breed-Classifier-with-Computer-Vision/assets/61297201/1e92d468-3d99-4c26-8518-cda704632780">
 
-90 Degree flips: 100% accuracy
-180 Degree Flips: 86.67% accuracy
-251 Degree Flips: 93.33% accuracy 
-Motion Blur: 100% accuracy
-Brightness Contrast: 100% accuracy
-Impulse Noise: 73.33% accuracy
-Block Cutout: 100% accuracy
+- 90 Degree flips: 100% accuracy
+- 180 Degree Flips: 86.67% accuracy
+- 251 Degree Flips: 93.33% accuracy
+- Motion Blur: 100% accuracy
+- Brightness Contrast: 100% accuracy
+- Impulse Noise: 73.33% accuracy
+- Block Cutout: 100% accuracy
 
 
-<img width="512" alt="image" src="https://github.com/jasonsjafrudin/Dog-Breed-Classifier-with-Computer-Vision/assets/61297201/006d8067-5be8-4561-af0b-abe79fa7f7d8">
+
+<img width="277" alt="image" src="https://github.com/jasonsjafrudin/Dog-Breed-Classifier-with-Computer-Vision/assets/61297201/9747c18e-695d-4b8d-815e-26d24b30d0a1">
+<img width="226" alt="image" src="https://github.com/jasonsjafrudin/Dog-Breed-Classifier-with-Computer-Vision/assets/61297201/68cd3291-66c8-44d5-89ff-d7d9df6c2599">
+<img width="216" alt="image" src="https://github.com/jasonsjafrudin/Dog-Breed-Classifier-with-Computer-Vision/assets/61297201/9d2c6b66-458b-4bae-8dbd-d07babc9c3ec">
+
 
