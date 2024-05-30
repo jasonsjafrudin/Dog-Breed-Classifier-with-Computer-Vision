@@ -44,3 +44,6 @@ I also wanted to see how my model would react to images that are not straightfor
 <img width="216" alt="image" src="https://github.com/jasonsjafrudin/Dog-Breed-Classifier-with-Computer-Vision/assets/61297201/9d2c6b66-458b-4bae-8dbd-d07babc9c3ec">
 
 
+As you can see, even with these odd/not straightforward images, my model is still predicting very well!
+
+
